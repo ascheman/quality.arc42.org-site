@@ -2,7 +2,6 @@ name: Build & Deploy Graph & Jekyll Site to GitHub Pages
 
 on:
   push:
-    branches: [ main ]  # Change if your default branch is different
 
 permissions:
   contents: read
