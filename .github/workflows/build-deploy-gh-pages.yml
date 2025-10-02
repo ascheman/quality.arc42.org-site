@@ -1,7 +1,9 @@
 name: Build & Deploy Graph & Jekyll Site to GitHub Pages
 
 on:
+  pull_request:
   push:
+  workflow_dispatch:
 
 permissions:
   contents: read
