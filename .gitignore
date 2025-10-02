@@ -15,3 +15,6 @@ assets/data
 
 # Local Crush agent artifacts
 .crush
+
+# HML Sanity check when running locally
+_hsc
